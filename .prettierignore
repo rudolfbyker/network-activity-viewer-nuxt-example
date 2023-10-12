@@ -1,0 +1,12 @@
+build
+coverage
+node_modules
+.idea
+
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+.yarn
