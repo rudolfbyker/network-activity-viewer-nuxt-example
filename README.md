@@ -5,8 +5,9 @@
 
 ## Steps to reproduce
 
-1. `yarn build`
-2. `yarn preview`
-3. Open Network Activity Viewer at http://localhost:4500
-4. Make a request to the Nitro server: `curl -I http://localhost:3000`
-5. Observe `Starting fetch` and `Finished fetch` in the console, but no activity in Network Activity Viewer.
+1. `yarn install`
+2. `yarn build`
+3. `yarn preview`
+4. Open Network Activity Viewer at http://localhost:4500
+5. Make a request to the Nitro server: `curl -I http://localhost:3000`
+6. Observe `Starting fetch` and `Finished fetch` in the console, but no activity in Network Activity Viewer.
